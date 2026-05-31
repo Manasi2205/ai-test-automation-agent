@@ -8,7 +8,7 @@ import { Coins } from 'lucide-react'
 
 function WorkspaceHeader() {
     const { userDetail } = useContext(UserDetailContext);
-
+//hi
     return (
         <div className='flex w-full justify-between p-4 items-center shadow-sm bg-white'>
             {/* Logo  */}
